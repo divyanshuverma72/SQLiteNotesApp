@@ -1,2 +1,3 @@
 # SQLiteNotesApp
-SQLite notes app for android
+A simple SQLite database app for android using MVP architecture and bind view.
+
