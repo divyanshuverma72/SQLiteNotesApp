@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SQLiteNotes</string>
+    <string name="add_note_here">Add note here</string>
+    <string name="add_note">Add note</string>
+    <string name="add_descriptions">Add descriptions</string>
+    <string name="enter_title_here">Enter title here</string>
+    <string name="update">update</string>
+    <string name="delete">delete</string>
+    <string name="date">Date</string>
+    <string name="empty">Add your first note by clicking \non the above three dots.</string>
+</resources>
